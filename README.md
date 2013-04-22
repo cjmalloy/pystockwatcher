@@ -1,0 +1,4 @@
+pystockwatcher
+==============
+
+Stock Watcher
