@@ -1,0 +1,8 @@
+application: py-stock-watcher
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+- url: /.*
+  script: stockmain.py
